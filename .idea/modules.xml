@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bharatkumar26-P4BuiltItBigger-5c63ca7.iml" filepath="$PROJECT_DIR$/Bharatkumar26-P4BuiltItBigger-5c63ca7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokesdisplayandroidlib/jokesdisplayandroidlib.iml" filepath="$PROJECT_DIR$/jokesdisplayandroidlib/jokesdisplayandroidlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokesjavalib/jokesjavalib.iml" filepath="$PROJECT_DIR$/jokesjavalib/jokesjavalib.iml" />
+    </modules>
+  </component>
+</project>

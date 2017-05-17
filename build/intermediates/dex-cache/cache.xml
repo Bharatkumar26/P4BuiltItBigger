@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\Bharatkumar26-P4BuiltItBigger-5c63ca7\jokesdisplayandroidlib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1d53e2d46348f4bb06b1abe1d853962dd031b62">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\Bharatkumar26-P4BuiltItBigger-5c63ca7-jokesdisplayandroidlib-unspecified_95bc10d0924736c9ad199a5f7154e831e9a43749.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\backend\build\libs\backend-android-endpoints.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="520dcfb7dae84b3ae46a23ed98ba22bbe0c9be2d">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\backend-android-endpoints_eb84a8c637b58c4d5144b4143e4dab52682efa06.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-ads-lite-9.8.0_6d67e37dbfd84771df7136df790564215b6d2997.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-v4-24.0.0_53883729b6ee2d5c6baf43000d9f1ad20ac8dfb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\jsr305-1.3.9_b10be6e52bf2793e783002ff14298f2c3c82e8ea.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.android.support-appcompat-v7-23.2.1_04f2c2dd72492ed43207e6cf486176f8083e6d8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\google-api-client-android-1.19.0_2179287ad0c51e2fa1c30097d2bc4d8e9787aba5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\google-api-client-1.19.0_26ee3b823054a9c7d459cd66117dcd93d7289571.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-tasks-9.8.0_e5caaabb83a7b573fd9e3bb8b3e1a46c1641b76a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\google-http-client-1.19.0_2dcd44a9f5a2e94224f72f2b7af885b608988798.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\internal_impl-24.0.0_54362b912a7088c0d693942b62a2301ec86b5562.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-gass-9.8.0_17db1c0b7fed66abf3d1ddb2c95d490a94ab9eb2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-v4-23.2.1_66a5ac4f9e9e7c8b59879c4927d0ce4a438fcc8c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\guava-jdk5-13.0_39257e814670b7a49714399fab2bfd8cdef45dd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\google-oauth-client-1.19.0_092ef05def8e1254b69ab42864e1cdbd98fc88d8.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-ads-9.8.0_7b46258924d6ffd1aec88c023aa1613fd5513d90.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\paid\debug\internal_impl-23.2.1_969da3b0f3a5a388082688e527a2b5eb474157b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\google-http-client-android-1.19.0_041651c15480420ddc9327bc68c0a571e8dd8ca2.jar" />
+    </item>
+    <item
+        jar="D:\Software\AndroidSoft\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\support-annotations-24.0.0_966a38ac082036fec4f76f5db7b772801e13ff33.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.android.support-animated-vector-drawable-23.2.1_fa41da1314759d4a654e26f0a32befb3a5457bcc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-base-9.8.0_854f7f83c57178df5875d72e7caed77679f216ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\google-http-client-jackson2-1.19.0_6dcc55ceb2bb5a18523d4ffc8822dcf46bc7f80e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-vector-drawable-23.2.1_f16885aa047ff5e70fefa6c262deb2f18e492daa.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-basement-9.8.0_3912abf68ec83993b7b504d130c3ec387211cb40.jar" />
+    </item>
+    <item
+        jar="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-clearcut-9.8.0_45ee864a6097581ff0c9afaf3bd51749e347a5b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bharath\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\free\debug\jackson-core-2.1.3_dd1c678e33fe78ecdd82706d25ad8e5f1646b6a5.jar" />
+    </item>
+    <item
+        jar="D:\Software\AndroidSoft\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\AndroidNanodegree\Bharatkumar26-P4BuiltItBigger-5c63ca7\app\build\intermediates\pre-dexed\paid\debug\support-annotations-23.2.1_f2d5f743c0f4ee91aa11943ba234037a2e9ce160.jar" />
+    </item>
+
+</items>
